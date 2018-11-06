@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+### 佐龙的朋友们   My friends
 
-You can use the [editor on GitHub](https://github.com/Zuolong233/friends/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+* **[卡卡美食游戏客]**(https://space.bilibili.com/179814258/#/video) 大爱美食，无敌吃货！人生就该如此放肆吃，睡，玩！
+<br>**[卡卡美食游戏客]**(https://space.bilibili.com/179814258/#/video)  Great love food, invincible man and I love food! Life should be so uninhibited to eat, sleep, play!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [Ray](https://r-ay.cn) 这是带我入互联网坑的朋友，如果不是她我现在可能还在当个咸鱼
+<br>[Ray](https://r-ay.cn) This is my friend called Ray，she brought me into the Internet pit. If it hadn't been for her, I might still be a rubbish
 
-### Markdown
+* [浅墨](https://www.romonov.com) 这是咱幻创极光的一位大佬啊！！！！！
+<br>[浅墨](https://www.romonov.com) This is a dalao of ours group
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Mc Myth](https://mc-myth.cn)的一个什么都没有的个人网站
+<br> [Mc Myth](https://mc-myth.cn) It's a website with nothing.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zuolong233/friends/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [Lxns](https://Lxns.ooo) Lxns是一位 ~~垃圾~~ 巨佬，贼牛逼，有自己的Alpha项目，平时喜欢装弱鸡
+<br> [Lxns](https://Lxns.ooo) Lxns is a ~~rubbish~~ large dalao,he has his private Alpha project but he always think he is rubbish
