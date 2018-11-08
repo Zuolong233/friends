@@ -1,5 +1,5 @@
-* [主站入口](https://zuolong233.github.io/main/) 佐龙的个人站——主站
-<br>[Main Website](https://zuolong233.github.io/main/) My own website——Main Website
+* [主站入口](https://zuolong233.github.io) 佐龙的个人站——主站
+<br>[Main Website](https://zuolong233.github.io) My own website——Main Website
 ### 佐龙的朋友们   My friends
 
 * [卡卡美食游戏客](https://space.bilibili.com/179814258/#/video)大爱美食，无敌吃货！人生就该如此放肆吃，睡，玩！
