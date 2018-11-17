@@ -22,3 +22,6 @@
 
 * [不正经问题搜集科](https://buzhengke.github.io) 这里是不正经问题搜集科!
 <br> [不正经问题搜集科](https://buzhengke.github.io) 这里是不正经问题搜集科!
+
+* [Tss PVP](http://tsspvp.sxl.cn/) 天圣开的小游戏服的网站
+<br> [Tss PVP](http://tsspvp.sxl.cn/) This is a website of a Minecraft Minigame Server
