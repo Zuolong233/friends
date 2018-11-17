@@ -25,3 +25,6 @@
 
 * [Tss PVP](http://tsspvp.sxl.cn/) 天圣开的小游戏服的网站
 <br> [Tss PVP](http://tsspvp.sxl.cn/) This is a website of a Minecraft Minigame Server
+
+* [凌冰](https://m.bilibili.com/space/313641011#/) 凌冰ZeroIce真正的神触，~~在恶俗围殴下活了下来~~
+<br> [ZeroIce](https://m.bilibili.com/space/313641011#/) This is a large dalao in bilibili
