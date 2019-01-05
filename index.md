@@ -29,5 +29,5 @@
 * [凌冰](https://m.bilibili.com/space/313641011#/) 凌冰ZeroIce真正的神触，~~在恶俗围殴下活了下来~~
 <br> [ZeroIce](https://m.bilibili.com/space/313641011#/) This is a large dalao in bilibili
 
-* [御坂美琴](https://space.bilibili.com/21661704/) 站长同学，一个睿智
-<br> [YBMQ](https://space.bilibili.com/21661704/) My classmate and he is a silly boy
+* [御灬坂美灬琴](https://space.bilibili.com/21661704/) 站长同学，一个睿智
+<br> [Y灬BM灬Q](https://space.bilibili.com/21661704/) My classmate and he is a silly guy
