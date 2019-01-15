@@ -14,6 +14,9 @@
 * [Mc Myth](https://mc-myth.cn)的一个什么都没有的个人网站
 <br> [Mc Myth](https://mc-myth.cn) It's a website with nothing.
 
+* [EntityCat](https://blog.catlr.cn/) 没人要的死宅
+<br> [EntityCat](https://blog.catlr.cn/) An unwanted dalao
+
 * [Lxns](https://Lxns.ooo) Lxns是一位 ~~垃圾~~ 巨佬，贼牛逼，有自己的Alpha项目，平时喜欢装弱鸡
 <br> [Lxns](https://Lxns.ooo) Lxns is a ~~rubbish~~ large dalao,he has his private Alpha project but he always think he is rubbish
 
