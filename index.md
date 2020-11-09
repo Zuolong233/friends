@@ -9,7 +9,7 @@
 <br>[Ray](https://r-ay.cn) This is my friend called Ray，she brought me into the Internet pit. If it hadn't been for her, I might still be a rubbish
 
 * [浅墨](https://www.romonov.com) 这是咱幻创极光的一位大佬啊！！！！！
-<br>[浅墨](https://www.romonov.com) This is a dalao of ours group
+<br>[浅墨](https://www.romonov.com) This is a dalao of ours group Respect.
 
 * [Mc Myth](https://mc-myth.cn)的一个什么都没有的个人网站
 <br> [Mc Myth](https://mc-myth.cn) It's a website with nothing.
@@ -34,6 +34,3 @@
 
 * [凌冰](https://m.bilibili.com/space/313641011#/) 凌冰ZeroIce真正的神触，~~在恶俗围殴下活了下来~~
 <br> [ZeroIce](https://m.bilibili.com/space/313641011#/) This is a large dalao in bilibili
-
-* [御灬坂美灬琴](https://space.bilibili.com/21661704/) 站长同学，一个睿智
-<br> [Y灬BM灬Q](https://space.bilibili.com/21661704/) My classmate and he is a silly guy
